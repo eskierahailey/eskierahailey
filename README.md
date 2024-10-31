@@ -32,7 +32,7 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
 
 <br />
 
-  <h3>Frameworks & Libraries</h3>
+  <h3>Frameworks and Libraries</h3>
   <p>
   <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -45,7 +45,7 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
 
 <br />
 
-  <h3>Databases & Cloud Services</h3>
+  <h3>Databases and Cloud Services</h3>
   <p>
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -75,18 +75,21 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
   
 <br />
 
-  <h3>UI/UX & Graphic Design</h3>
+  <h3>Photo, Graphic Design, and UI/UX</h3>
   <p>
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" />
   <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" />
   <img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" />
+  <img align="left" alt="Lightroom" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-lightroom--v1.png" />
+  <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/canva.png" />
+  <img align="left" alt="Procreate" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" />
   <img align="left" alt="ClipStudio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/6/66/Clip_Studio_Paint_app_logo.png" />
   <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   </p>
     
 <br />
 
-  <h3>Video & Post-production</h3>
+  <h3>Video and Post-production</h3>
   <p>
   <img align="left" alt="Premiere" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" />
   <img align="left" alt="AfterEffects" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" />
@@ -98,10 +101,11 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
       
 <br />
 
-  <h3>3D Modeling & Animation</h3>
+  <h3>3D Modeling and Animation</h3>
   <p>
   <img align="left" alt="Maya" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
   <img align="left" alt="3DS Max" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/blender-3d.png" />
   <img align="left" alt="ZBrush" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/508998/zbrush.svg" />
   <img align="left" alt="Marvelous" width="30px" style="padding-right:10px;" src="https://www.versluis.com/wp-content/uploads/2022/10/MD11-Icon-150x150@2x.png" />
   <img align="left" alt="3DCoat" width="30px" style="padding-right:10px;" src="https://3dcoat.com/forum/uploads/monthly_2024_01/3DCoat_logo.png.d8eb753e91de1702029c7f37e1f62397.png" />
@@ -121,7 +125,7 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
           
 <br />
 
-  <h3>Productivity & Office</h3>
+  <h3>Productivity and Office</h3>
   <p>
   <img align="left" alt="Microsoft365" width="30px" style="padding-right:10px;" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Logo_512px.png" />
   <img align="left" alt="GoogleWorkspace" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
