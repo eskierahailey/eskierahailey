@@ -14,7 +14,7 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
 
 ---
 <!-- Toggle 1: Digital Literacy -->
-<details open>
+<details close>
     <summary><h2>🛠️ Digital Literacy</h2></summary>
   <h3>Programming Languages</h3>
 <p>
@@ -140,7 +140,7 @@ I am an absolute techie and a versatile professional, blending artistic flair wi
 </details>
 
 <!-- Toggle 2: Stats and Activity -->
-<details open>
+<details close>
     <summary><h2>📊 My GitHub Stats</h2></summary>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskierahailey&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&include_all_commits=true&hide_title=true)
